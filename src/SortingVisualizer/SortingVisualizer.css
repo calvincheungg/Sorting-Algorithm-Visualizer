@@ -1,3 +1,7 @@
+body {
+    background-color: black;
+}
+
 .array-box {
     position: absolute;
     left: 100px;
@@ -6,7 +10,7 @@
 
 .array-bar {
     width: 3px;
-    background-color: lightgreen;
+    background-color: lightblue;
     display: inline-block;
     margin: 0 2px;
 }
