@@ -3,9 +3,10 @@ body {
 }
 
 .array-box {
+    color: white;
     position: absolute;
     left: 100px;
-    top: 100px;
+    bottom: 50px;
 }
 
 .array-bar {
@@ -13,4 +14,15 @@ body {
     background-color: lightblue;
     display: inline-block;
     margin: 0 2px;
+}
+
+.user-form {
+    position: fixed;
+    top: 25px;
+}
+
+.buttons {
+    padding: 1px 8px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
